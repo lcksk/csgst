@@ -1,0 +1,1 @@
+Transmisión de video y audio a un servidor icecast, usando gstreamer
